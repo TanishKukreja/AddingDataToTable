@@ -44,7 +44,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
     @IBOutlet weak var textFiled: UITextField!
     @IBOutlet weak var tableView: UITableView!
     
-//    var Games : [String] = ["Gta","SanAndreas","Pubg","FreeFire"]
+    var Games : [String] = ["Gta","SanAndreas","Pubg","FreeFire"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
